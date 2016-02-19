@@ -1,1 +1,1 @@
-stock-logistics-barcode
+stock-logistics-barcode git@github.com:Vauxoo/stock-logistics-barcode.git
